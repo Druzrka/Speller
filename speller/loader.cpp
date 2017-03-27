@@ -11,7 +11,7 @@
 #include <iostream>
 #include <map>
 #include <cctype>
-#define DICTIONARY "/Users/konstantyn/Desktop/loader/loader/"
+#define DICTIONARY "/Users/konstantyn/Desktop/loader/loader/large"
 #define TEXT "/Users/konstantyn/Desktop/loader/loader/alice.txt"
 #define MAX_LENGTH_OF_WORD 45
 

@@ -20,8 +20,6 @@ private:
     
 public:
     void check_text();
-    
-    void check();
 };
 
 
